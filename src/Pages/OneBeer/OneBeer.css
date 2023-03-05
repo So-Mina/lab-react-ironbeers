@@ -1,0 +1,37 @@
+.OneBeerCard, .OneRandomBeer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 5rem 1rem;
+}
+
+.OneBeerImg img, .RandomCardImg img {
+  max-width: 8vh;
+  display: flex;
+}
+
+.first {
+  font-size: 2rem;
+}
+
+.first, .second {
+  display: flex;
+  justify-content: space-between;
+  width: 90vw;
+  margin: 1rem;
+}
+
+.tagline, .level, .contributor {
+  color : grey;
+}
+
+.last {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+}
+
+.contributor {
+  margin: 1rem 0
+}

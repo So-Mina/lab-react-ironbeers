@@ -1,0 +1,12 @@
+.HeaderDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(0, 166, 255);
+  height: 3rem;
+}
+
+.fa-house {
+  color: white;
+  font-size: 200%;
+}

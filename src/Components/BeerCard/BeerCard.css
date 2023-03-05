@@ -1,0 +1,30 @@
+
+.CardImg img {
+  height: 7rem;
+  width: 3rem;
+}
+
+.BeerCard {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.BeerCard div {
+  margin: 0.5rem;
+}
+
+.CardInfos {
+  left: 3rem;
+}
+
+.tagline {
+  color: grey;
+}
+
+.BeerCard a {
+  text-decoration: none;
+  color: black;
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
